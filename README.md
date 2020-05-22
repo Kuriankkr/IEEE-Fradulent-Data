@@ -6,8 +6,8 @@ I have below given what each column represents from both the datasets
 
 Transaction Table
 
-TransactionDT: timedelta from a given reference datetime (not an actual timestamp)
-TransactionAMT: transaction payment amount in USD
+- TransactionDT: timedelta from a given reference datetime (not an actual timestamp)
+- TransactionAMT: transaction payment amount in USD
 ProductCD: product code, the product for each transaction
 card1 - card6: payment card information, such as card type, card category, issue bank, country, etc.
 addr: address
