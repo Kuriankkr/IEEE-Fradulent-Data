@@ -23,3 +23,5 @@ card1 - card6
 addr1, addr2
 Pemaildomain Remaildomain
 M1 - M9
+
+https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
