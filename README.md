@@ -38,3 +38,11 @@ They're collected by Vesta’s fraud protection system and digital security part
 - DeviceType
 - DeviceInfo
 - id12 - id38
+
+A huge shout out to the authors who helped me build my model
+
+https://www.kaggle.com/c/ieee-fraud-detection/discussion/111696
+
+https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
+
+
