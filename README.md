@@ -46,4 +46,5 @@ https://www.kaggle.com/c/ieee-fraud-detection/discussion/111696
 
 https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
 
-Note: I still have t run it in my computer that is crashing right now. I shall run it soon and display the outputs. Thanks
+Note: I still have t run it in my computer that is crashing right now. I shall run it soon and display the outputs
+
