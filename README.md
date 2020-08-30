@@ -46,5 +46,9 @@ https://www.kaggle.com/c/ieee-fraud-detection/discussion/111696
 
 https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
 
+Fradulent Transactions Part 2:
+This is the link for that
+https://github.com/Kuriankkr/Predicting-Fradulent-Card-Transactions/blob/master/Fradulent%20_Transaction_Part2.ipynb
+
 Note: I still have t run it in my computer that is crashing right now. I shall run it soon and display the outputs
 
