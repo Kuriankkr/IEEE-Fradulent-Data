@@ -1,6 +1,6 @@
 # IEEE-Fradulent-Data(EDA)
 
-This python notebook was created from the Datasets provided by IEEE-CIS Fraud Detection competition from Kaggle. The idea was to detect Fraud detections from millions of customer transactions. I have done a basic exploratory data analysis for the card transactions. There are two sets of training data and one set of testing data. I have attached the link of the training dataset. The datasets can be downloaded from the link below.
+This python notebook was created from the Datasets provided by IEEE-CIS Fraud Detection competition from Kaggle. In this competition you are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud. I have done a basic exploratory data analysis for the card transactions. There are two sets of training data and one set of testing data. I have attached the link of the training dataset. The datasets can be downloaded from the link below.
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
 I have below given what each column represents from both the datasets
