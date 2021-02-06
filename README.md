@@ -1,6 +1,6 @@
 # IEEE-Fradulent-Data(EDA)
 
-This python notebook was created from the Datasets provided by IEEE-CIS Fraud Detection from Kaggle. The idea was to detect Fraud detections. I have done a basic exploratory data analysis for the card transactions. There are two sets of training data and one set of testing data. I have attached the link of the training. The datasets can be downloaded from the link below.
+This python notebook was created from the Datasets provided by IEEE-CIS Fraud Detection competition from Kaggle. The idea was to detect Fraud detections from millions of customer transactions. I have done a basic exploratory data analysis for the card transactions. There are two sets of training data and one set of testing data. I have attached the link of the training dataset. The datasets can be downloaded from the link below.
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
 I have below given what each column represents from both the datasets
@@ -47,7 +47,7 @@ https://www.kaggle.com/c/ieee-fraud-detection/discussion/111696
 https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
 
 Fradulent Transactions Part 2:
-This is the link for that
+This is the link for the second part of the notebook in case it doesnt open itself inside of github
 
 https://nbviewer.jupyter.org/github/Kuriankkr/Predicting-Fradulent-Card-Transactions/blob/master/Fradulent%20_Transaction_Part2.ipynb
 
