@@ -51,5 +51,4 @@ This is the link for that
 
 https://nbviewer.jupyter.org/github/Kuriankkr/Predicting-Fradulent-Card-Transactions/blob/master/Fradulent%20_Transaction_Part2.ipynb
 
-Note: I still have t run it in my computer that is crashing right now. I shall run it soon and display the outputs
 
